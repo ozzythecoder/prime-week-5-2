@@ -1,21 +1,37 @@
 body {
   margin: 0;
-  padding: 0;
 }
 
 #container {
   background-image: url('./record.png');
   background-repeat: repeat;
   height: 150vw;
+  font-family: 'Gill Sans', Calibri, 'Trebuchet MS', sans-serif
+}
+
+.text {
+  margin: 0;
 }
 
 .headline {
   background-color: navy;
   color: white;
   text-align: center;
+  margin: 10px 0;
+  padding: 10px 0 15px 0;
 }
 
 .bodytext {
   background-color: lightgrey;
-  padding: 1em;
+  padding: 1em 5vw;
+  line-height: 1.3em;
+  font-size: 18px;
+}
+
+ul {
+  padding: 0.3rem 5vw;
+}
+
+li {
+  padding: 0.3rem 0;
 }
