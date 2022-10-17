@@ -24,8 +24,8 @@ body {
 
 .bodytext {
   background-color: lightgrey;
-  padding: 1em 5vw;
-  line-height: 1.3em;
+  padding: 1em;
+  line-height: 1.3rem;
   font-size: 18px;
 }
 
