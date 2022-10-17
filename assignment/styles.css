@@ -5,7 +5,7 @@ body {
 #container {
   background-image: url('./record.png');
   background-repeat: repeat;
-  height: 150vw;
+  height: 100vw;
   font-family: 'Gill Sans', Calibri, 'Trebuchet MS', sans-serif
 }
 
@@ -18,7 +18,7 @@ body {
   background-color: navy;
   color: white;
   text-align: center;
-  margin: 10px 0;
+  margin-bottom: 10px;
   padding: 10px 0 15px 0;
 }
 
@@ -30,5 +30,5 @@ body {
 }
 
 .indent {
-  padding: 0.3rem 5vw;
+  padding: 0.3rem 10vw;
 }
