@@ -1,16 +1,21 @@
 body {
   margin: 0;
-  background-image: url('./record.png');
-  background-repeat: repeat;
+  padding: 0;
 }
 
-header {
+#container {
+  background-image: url('./record.png');
+  background-repeat: repeat;
+  height: 150vw;
+}
+
+.headline {
   background-color: navy;
   color: white;
   text-align: center;
 }
 
-main {
+.bodytext {
   background-color: lightgrey;
   padding: 1em;
 }
